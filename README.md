@@ -1,7 +1,7 @@
 # 여기는 한글 프로젝트 설명 
 
 한국어 | [English]
-()
+(https://github.com/CHOI-SUJEONG/hello1/blob/master/README-EN)
 
 아주 멋진
 
